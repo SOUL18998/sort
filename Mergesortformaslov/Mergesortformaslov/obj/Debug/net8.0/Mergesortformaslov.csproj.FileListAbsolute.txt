@@ -1,0 +1,14 @@
+C:\Users\Class_Student\Desktop\IsayProj\Mergesortformaslov\Mergesortformaslov\bin\Debug\net8.0\Mergesortformaslov.exe
+C:\Users\Class_Student\Desktop\IsayProj\Mergesortformaslov\Mergesortformaslov\bin\Debug\net8.0\Mergesortformaslov.deps.json
+C:\Users\Class_Student\Desktop\IsayProj\Mergesortformaslov\Mergesortformaslov\bin\Debug\net8.0\Mergesortformaslov.runtimeconfig.json
+C:\Users\Class_Student\Desktop\IsayProj\Mergesortformaslov\Mergesortformaslov\bin\Debug\net8.0\Mergesortformaslov.dll
+C:\Users\Class_Student\Desktop\IsayProj\Mergesortformaslov\Mergesortformaslov\bin\Debug\net8.0\Mergesortformaslov.pdb
+C:\Users\Class_Student\Desktop\IsayProj\Mergesortformaslov\Mergesortformaslov\obj\Debug\net8.0\Mergesortformaslov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Class_Student\Desktop\IsayProj\Mergesortformaslov\Mergesortformaslov\obj\Debug\net8.0\Mergesortformaslov.AssemblyInfoInputs.cache
+C:\Users\Class_Student\Desktop\IsayProj\Mergesortformaslov\Mergesortformaslov\obj\Debug\net8.0\Mergesortformaslov.AssemblyInfo.cs
+C:\Users\Class_Student\Desktop\IsayProj\Mergesortformaslov\Mergesortformaslov\obj\Debug\net8.0\Mergesortformaslov.csproj.CoreCompileInputs.cache
+C:\Users\Class_Student\Desktop\IsayProj\Mergesortformaslov\Mergesortformaslov\obj\Debug\net8.0\Mergesortformaslov.dll
+C:\Users\Class_Student\Desktop\IsayProj\Mergesortformaslov\Mergesortformaslov\obj\Debug\net8.0\refint\Mergesortformaslov.dll
+C:\Users\Class_Student\Desktop\IsayProj\Mergesortformaslov\Mergesortformaslov\obj\Debug\net8.0\Mergesortformaslov.pdb
+C:\Users\Class_Student\Desktop\IsayProj\Mergesortformaslov\Mergesortformaslov\obj\Debug\net8.0\Mergesortformaslov.genruntimeconfig.cache
+C:\Users\Class_Student\Desktop\IsayProj\Mergesortformaslov\Mergesortformaslov\obj\Debug\net8.0\ref\Mergesortformaslov.dll

@@ -1,0 +1,14 @@
+C:\Users\Class_Student\Desktop\IsayProj\bubblesortformaslow.cs\bubblesortformaslow.cs\bin\Debug\net8.0\bubblesortformaslow.cs.exe
+C:\Users\Class_Student\Desktop\IsayProj\bubblesortformaslow.cs\bubblesortformaslow.cs\bin\Debug\net8.0\bubblesortformaslow.cs.deps.json
+C:\Users\Class_Student\Desktop\IsayProj\bubblesortformaslow.cs\bubblesortformaslow.cs\bin\Debug\net8.0\bubblesortformaslow.cs.runtimeconfig.json
+C:\Users\Class_Student\Desktop\IsayProj\bubblesortformaslow.cs\bubblesortformaslow.cs\bin\Debug\net8.0\bubblesortformaslow.cs.dll
+C:\Users\Class_Student\Desktop\IsayProj\bubblesortformaslow.cs\bubblesortformaslow.cs\bin\Debug\net8.0\bubblesortformaslow.cs.pdb
+C:\Users\Class_Student\Desktop\IsayProj\bubblesortformaslow.cs\bubblesortformaslow.cs\obj\Debug\net8.0\bubblesortformaslow.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Class_Student\Desktop\IsayProj\bubblesortformaslow.cs\bubblesortformaslow.cs\obj\Debug\net8.0\bubblesortformaslow.cs.AssemblyInfoInputs.cache
+C:\Users\Class_Student\Desktop\IsayProj\bubblesortformaslow.cs\bubblesortformaslow.cs\obj\Debug\net8.0\bubblesortformaslow.cs.AssemblyInfo.cs
+C:\Users\Class_Student\Desktop\IsayProj\bubblesortformaslow.cs\bubblesortformaslow.cs\obj\Debug\net8.0\bubblesortformaslow.cs.csproj.CoreCompileInputs.cache
+C:\Users\Class_Student\Desktop\IsayProj\bubblesortformaslow.cs\bubblesortformaslow.cs\obj\Debug\net8.0\bubblesortformaslow.cs.dll
+C:\Users\Class_Student\Desktop\IsayProj\bubblesortformaslow.cs\bubblesortformaslow.cs\obj\Debug\net8.0\refint\bubblesortformaslow.cs.dll
+C:\Users\Class_Student\Desktop\IsayProj\bubblesortformaslow.cs\bubblesortformaslow.cs\obj\Debug\net8.0\bubblesortformaslow.cs.pdb
+C:\Users\Class_Student\Desktop\IsayProj\bubblesortformaslow.cs\bubblesortformaslow.cs\obj\Debug\net8.0\bubblesortformaslow.cs.genruntimeconfig.cache
+C:\Users\Class_Student\Desktop\IsayProj\bubblesortformaslow.cs\bubblesortformaslow.cs\obj\Debug\net8.0\ref\bubblesortformaslow.cs.dll
