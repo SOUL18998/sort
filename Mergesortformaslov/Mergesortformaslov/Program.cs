@@ -37,7 +37,8 @@ namespace Sort.MergeSort
 
             if (mass.Length <= 1)
             {
-                return; // Если массив состоит из одного или нуля элементов, он уже отсортирован
+                // Если массив состоит из одного или нуля элементов, он уже отсортирован
+                return; 
             }
 
             // Разделяем массив на две части
@@ -50,7 +51,7 @@ namespace Sort.MergeSort
             Console.WriteLine("Левая часть: " + string.Join(" ", left));
             Console.WriteLine("Правая часть: " + string.Join(" ", right));
 
-            // Рекурсивно сортируем обе части
+            // сортируем обе части
             MergeSort(left);
             MergeSort(right);
 
